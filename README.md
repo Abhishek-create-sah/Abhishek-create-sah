@@ -5,7 +5,7 @@
       <h1>Hi there, I'm Abhishek Sah 👋</h1>
       <p><strong>3rd Year B.Tech CSE @ IEM Salt Lake | Full-Stack Developer</strong></p>
       <p>I build scalable MERN applications and solve complex logic problems. Passionate about clean code and efficient algorithms.</p>
-      <p>🚀 <b>300+ LeetCode Solved</b> | 🔥 <b>200+ Day Streak</b></p>
+      <p>🚀 <b>350+ LeetCode Solved</b> | 🔥 <b>250+ Day Streak</b></p>
     </td>
     <td width="25%" align="center">
       <img src="https://github.com/user-attachments/assets/d31ef103-4100-4586-a7c1-2b762965ec6a" width="200px" style="border-radius: 50%;" />
@@ -17,7 +17,7 @@
 ### 🔭 Current Focus & Projects
 - 🔭 **Working on:** An **Industrial Project Management System** designed to bridge the gap between local service providers and users.
 - 🌱 **Learning:** Deepening my knowledge of **System Design** and refining my **Computer fundamental** for technical interviews.
-- 💻 **DSA Progress:** Solved **300+ problems on LeetCode** using **Java**, focusing on efficiency and optimal data structures.
+- 💻 **DSA Progress:** Solved **350+ problems on LeetCode** using **Java**, focusing on efficiency and optimal data structures.
 - 🏗️ **Past Builds:** Developed a full-stack **Airbnb clone** with interactive map features and a **Zomato-Reels hybrid** application.
 
 ---
@@ -51,20 +51,12 @@
   ![LeetCode Streak](https://img.shields.io/badge/LeetCode-200+--Day%20Streak-orange?style=for-the-badge&logo=leetcode&logoColor=white)
   ![Problems Solved](https://img.shields.io/badge/Solved-300+--Problems-blue?style=for-the-badge&logo=leetcode&logoColor=white)
 
-
----
-
-### 📈 GitHub Stats
-
-| ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-create-sah&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-create-sah&layout=compact&theme=radical) |
-| :--- | :--- |
-
 ---
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/abhishek-kumar-sah-755893210](https://www.linkedin.com/in/abhishek-kumar-sah-755893210)
 - **Portfolio:** [abhisheksah.me](https://abhisheksah.me)
 - **LeetCode:** [leetcode.com/0t9EZegSct![ppic]](https://leetcode.com/0t9EZegSct)
-- **Email:** [your.email@example.com]
+- **Email:** [abhisheksah2032004@gmail.com]
 
 > ⚡ **Fun Fact:** I've spent enough time debugging React hooks to know that sometimes the best solution is a long walk (or a very strong coffee).

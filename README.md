@@ -7,7 +7,7 @@
       <p>🚀 <b>475+ LeetCode Solved</b> | 🔥 <b>275+ Day Streak</b></p>
     </td>
     <td width="25%" align="center">
-      <img src="https://github.com/user-attachments/assets/4d75b47e-4d93-47dd-8ac9-aaa0423c39e8" width="150px" height="150px" style="border-radius: 50%;" />
+      <img src="https://github.com/user-attachments/assets/31c2f179-c673-4c7d-8539-de11b351afb7" width="200px" height="300px" style="border-radius: 50%;" />
     </td>
   </tr>
 </table>

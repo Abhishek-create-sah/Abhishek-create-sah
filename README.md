@@ -4,7 +4,7 @@
       <h1>Hi there, I'm Abhishek Sah 👋</h1>
       <p><strong>3rd Year B.Tech CSE @ IEM Kolkata | Full-Stack & Agentic AI Developer</strong></p>
       <p>I build scalable MERN applications and autonomous AI pipelines. Passionate about clean code, efficient algorithms, and shipping production-grade solutions.</p>
-      <p>🚀 <b>475+ LeetCode Solved</b> | 🔥 <b>275+ Day Streak</b></p>
+      <p>🚀 <b>500+ LeetCode Solved</b> | 🔥 <b>285+ Day Streak</b></p>
     </td>
     <td width="25%" align="center">
       <img src="https://github.com/user-attachments/assets/31c2f179-c673-4c7d-8539-de11b351afb7" width="200px" height="300px" style="border-radius: 50%;" />
@@ -91,7 +91,7 @@
 
 ### 🏆 Achievements & Certifications
 
-- 🧠 **LeetCode:** 475+ problems solved, 275+ day active streak — competed in **Gen AI Exchange Hackathon** & **Google Solution Challenge**
+- 🧠 **LeetCode:** 500+ problems solved, 285+ day active streak — competed in **Gen AI Exchange Hackathon** & **Google Solution Challenge**
 - ☁️ **Google Cloud Arcade:** Arcade Trooper Tier — 10+ cloud infrastructure & security labs completed
 - 📜 **Foundations of Cryptography** — NPTEL / IIIT Bangalore (2026)
 - 📜 **Generative AI & LLMs** — Coursera (2026)
@@ -101,8 +101,8 @@
 
 ### 📊 LeetCode Stats
 
-![LeetCode Streak](https://img.shields.io/badge/LeetCode-275+--Day%20Streak-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-475+--Problems-blue?style=for-the-badge&logo=leetcode&logoColor=white)
+![LeetCode Streak](https://img.shields.io/badge/LeetCode-285+--Day%20Streak-orange?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Solved-500+--Problems-blue?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ---
 
